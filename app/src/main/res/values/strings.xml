@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YOUR ROUTINES AND PROJECTS</string>
+    <string name="projects">PROJECTS</string>
+    <string name="routines">ROUTINES</string>
+    <string name="weekly_review">WEEKLY REVIEW</string>
+    <string name="this_week_s_work">THIS WEEK\'S WORK</string>
+</resources>
