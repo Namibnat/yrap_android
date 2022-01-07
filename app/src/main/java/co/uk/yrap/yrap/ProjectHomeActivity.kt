@@ -8,4 +8,8 @@ class ProjectHomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_project_home)
     }
+    fun addNewProject(view: android.view.View) {
+        val newProjectName = "Test Project"
+
+    }
 }
