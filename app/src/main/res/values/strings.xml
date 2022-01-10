@@ -4,4 +4,6 @@
     <string name="routines">ROUTINES</string>
     <string name="weekly_review">WEEKLY REVIEW</string>
     <string name="this_week_s_work">THIS WEEK\'S WORK</string>
+    <string name="select_what_to_work_on">SELECT WHAT TO WORK ON</string>
+    <string name="main_page_welcome">WELCOME!</string>
 </resources>
