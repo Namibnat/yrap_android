@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.YRAP">
         <activity
+            android:name=".RoutineHome"
+            android:exported="false"
+            android:label="@string/title_activity_routine_home"
+            android:theme="@style/Theme.YRAP.NoActionBar" />
+        <activity
             android:name=".ProjectHomeActivity"
             android:exported="false" />
         <activity
