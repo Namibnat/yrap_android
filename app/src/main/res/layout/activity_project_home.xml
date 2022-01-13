@@ -29,4 +29,13 @@
         android:layout_marginTop="65dp"
         android:inputType="text"/>
 
+    <TextView
+        android:id="@+id/add_project_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:text="@string/projects"
+        android:textColor="@color/backgroundColor"
+        android:textSize="20sp" />
+
 </LinearLayout>
