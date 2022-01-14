@@ -53,7 +53,8 @@
                 android:paddingHorizontal="45sp"
                 android:layout_gravity="center"
                 android:layout_height="wrap_content"
-                android:background="@color/white"
+                android:background="@color/backgroundColor"
+                android:bord
                 android:gravity="center"
                 android:onClick="onGoSomewhere"
                 android:text="@string/projects"
