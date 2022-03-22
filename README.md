@@ -2,8 +2,10 @@
 
 ## Overview
 
-This project aims to combine a simple implementation of GTD, along with an approach to 
-mastering routines.
+**This project was one I was working on while learning Kotlin.  For the time being,
+I've put that on hold, but I'm sure I'll pick it up in the future again**.
+
+This project aims to combine a simple implementation of GTD, along with an approach to mastering routines.
 
 ## Projects
 
